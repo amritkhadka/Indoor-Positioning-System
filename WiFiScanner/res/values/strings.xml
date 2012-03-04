@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, WiFiScannerActivity!</string>
+    <string name="app_name">WiFiScanner</string>
+    <string name="button">Scan</string>
+
+</resources>
